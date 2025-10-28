@@ -1,4 +1,4 @@
-<h1>Simple Harmonic Motion/h1>
+<h1>Simple Harmonic Motion</h1>
 
 Implementation done using Rust and Nannou crate.
 
